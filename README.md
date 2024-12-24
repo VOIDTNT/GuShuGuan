@@ -1,2 +1,2 @@
 # GuShuGuan
-古书馆
+wiki
